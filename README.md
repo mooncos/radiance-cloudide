@@ -8,6 +8,7 @@ Un clon open source de [JSFiddle](http://jsfiddle.net/), el projecto se realizó
 
 * Editores HTML/CSS/JS
 * Previsualización
+* Colaboración
 * Correción de sintaxis
 * Higienizador
 * Wrapping de scripts
