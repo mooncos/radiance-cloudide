@@ -1,6 +1,6 @@
 # radianceCloudIDE
 
-![radianceCloudIDE logo](/static/logo.png)
+<img src="/static/logo.png" alt="radianceCloudIDE logo" style="width: 100px;"/>
 
 Un clon open source de [JSFiddle](http://jsfiddle.net/), el projecto se realizó para proporcionar un entorno offline y online para la programación web en dispositivos muy livianos o de pocos recursos como un iPad.
 
