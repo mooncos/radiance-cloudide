@@ -26,7 +26,7 @@ Un clon open source de [JSFiddle](http://jsfiddle.net/), el projecto se realizó
 #### Desarrollador
 Marcos Gómez ([@margobra8](http://twitter.com/margobra8))
 
-#### Idea origiginal
+#### Idea original
 John Cipponeri ([@johncipponeri](http://twitter.com/johncipponeri))
 
 #### Librerías Utilizadas
